@@ -1,4 +1,4 @@
-//scr_Add_Item(item_id)
+ //scr_Add_Item(item_id)
 //loop through inventory to find the first empty spot
 for(i = 0; i < global.maxItems; i++)
 {

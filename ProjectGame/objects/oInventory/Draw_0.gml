@@ -14,9 +14,15 @@ if(global.inventoryShow == true)
 	rowmultiplier = 0;
 	columnmultiplier = 0;
 	
+
+	draw_sprite(sInventory, 0, x1 - 20, y1 - 40);
 	draw_set_color(c_dkgray);
 	draw_set_alpha(1);
-	draw_rectangle(x1,y1,x2,y2,0);
+	draw_roundrect(x1 - 10,y1 - 10,x2 + 10,y2 + 10, 0);
+	draw_set_color(c_white);
+	draw_text(x1 - 4, y1 - 38, "Inventory");
+	
+	
 	
 	//for loop to draw inventory
 	for(i = 0; i < global.maxItems; i++)
