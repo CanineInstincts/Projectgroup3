@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "e5ccdeda-5251-40e6-9f2f-acca8594e240",
+            "Value": {
+                "id": "246605d2-f7eb-449a-973f-41b6f8357bc8",
+                "resourcePath": "rooms\\Game_World\\Game_World.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "e7f5a084-6e88-40d4-a2d6-3d831a5133f4",
             "Value": {
                 "id": "9083aa7a-13ff-4138-845d-7ad322322059",
