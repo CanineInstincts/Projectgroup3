@@ -6,7 +6,8 @@
     "children": [
         "ffc0b79a-d9a4-4121-a27a-0f56f563bce2",
         "ec82b849-be35-4c44-b78f-a716114913b9",
-        "b0813019-669d-4f9a-add0-cff1731316e7"
+        "b0813019-669d-4f9a-add0-cff1731316e7",
+        "b12f368a-f4d9-4441-9f18-b878d23c0e4c"
     ],
     "filterType": "GMSprite",
     "folderName": "ConversationBox",

@@ -1,18 +1,18 @@
 {
-    "id": "ede6bb6d-7d68-4e70-995d-dc15640d0b7d",
+    "id": "80614711-77ce-4f5a-a56a-6232d95baa07",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "ConversationPopup",
+    "name": "Obj_ClickBox0",
     "eventList": [
         {
-            "id": "9876bd3c-cd07-4bdc-8c59-aa6b0e4875f1",
+            "id": "24f4558f-3e10-4420-ae50-a40bc61b4884",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "ede6bb6d-7d68-4e70-995d-dc15640d0b7d"
+            "eventtype": 6,
+            "m_owner": "80614711-77ce-4f5a-a56a-6232d95baa07"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "b0813019-669d-4f9a-add0-cff1731316e7",
     "visible": true
 }

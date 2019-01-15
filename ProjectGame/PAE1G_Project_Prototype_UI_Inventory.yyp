@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "80614711-77ce-4f5a-a56a-6232d95baa07",
+            "Value": {
+                "id": "361b1f79-5738-41a5-95db-1603ddc2fa08",
+                "resourcePath": "objects\\Obj_ClickBox0\\Obj_ClickBox0.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "835fa2b0-fb37-417f-a9f7-d883a58dbe1a",
             "Value": {
                 "id": "3445bcd8-bd6b-4a96-bba7-c322a315ceef",
@@ -338,7 +346,15 @@
             "Key": "b0813019-669d-4f9a-add0-cff1731316e7",
             "Value": {
                 "id": "537b6d32-e065-40ea-b12a-29275af3b318",
-                "resourcePath": "sprites\\ClickBox\\ClickBox.yy",
+                "resourcePath": "sprites\\ClickBox0\\ClickBox0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b12f368a-f4d9-4441-9f18-b878d23c0e4c",
+            "Value": {
+                "id": "e9fad24a-0a73-4d02-a1b2-ca607e5170b8",
+                "resourcePath": "sprites\\ClickBox1\\ClickBox1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -391,6 +407,14 @@
             }
         },
         {
+            "Key": "d6329d04-0d84-46ed-98ea-abb977dcad35",
+            "Value": {
+                "id": "8969df68-5659-46ac-b54f-834fbdd79ca7",
+                "resourcePath": "objects\\Obj_ClickBox1\\Obj_ClickBox1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d662c840-14d3-433d-a0d8-579c4ff56942",
             "Value": {
                 "id": "35b10a0d-d8bf-4068-ba8f-e05485fab5c3",
@@ -423,6 +447,14 @@
             }
         },
         {
+            "Key": "e5ccdeda-5251-40e6-9f2f-acca8594e240",
+            "Value": {
+                "id": "246605d2-f7eb-449a-973f-41b6f8357bc8",
+                "resourcePath": "rooms\\Game_World\\Game_World.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "e7f5a084-6e88-40d4-a2d6-3d831a5133f4",
             "Value": {
                 "id": "9083aa7a-13ff-4138-845d-7ad322322059",
@@ -436,14 +468,6 @@
                 "id": "a46fa468-3158-4ced-9859-6a2624515f54",
                 "resourcePath": "sprites\\Conve_Border\\Conve_Border.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ede6bb6d-7d68-4e70-995d-dc15640d0b7d",
-            "Value": {
-                "id": "e3c947ce-4ea0-403f-82ac-8d9f5101e3e0",
-                "resourcePath": "objects\\ConversationPopup\\ConversationPopup.yy",
-                "resourceType": "GMObject"
             }
         },
         {
