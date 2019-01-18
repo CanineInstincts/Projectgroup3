@@ -71,6 +71,15 @@ switch(argument0)
 	case 11:
 		return line1_2[6];
 		break;
+	case 12:
+		return choice1[0];
+		break;
+	case 13:
+		return choice1[1];
+		break;
+	case 14:
+		return choice1[2];
+		break;
 	default:
 		return "End";
 		break;
