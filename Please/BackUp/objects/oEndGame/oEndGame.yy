@@ -2,7 +2,7 @@
     "id": "3d2d2dbf-4287-4b3a-a079-29bc0e246bcc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "EndGame",
+    "name": "oEndGame",
     "eventList": [
         
     ],
