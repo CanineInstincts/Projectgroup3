@@ -330,7 +330,7 @@
             "Key": "b7e27e90-706f-40c1-97cf-2d60a60b0d83",
             "Value": {
                 "id": "39b41c7e-cd7e-473c-85c1-b684d1a1f7f6",
-                "resourcePath": "sprites\\sHealth_Bar\\sHealth_Bar.yy",
+                "resourcePath": "sprites\\sHealthbar_Bar\\sHealthbar_Bar.yy",
                 "resourceType": "GMSprite"
             }
         },

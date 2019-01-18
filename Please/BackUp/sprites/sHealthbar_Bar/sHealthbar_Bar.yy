@@ -2,7 +2,7 @@
     "id": "b7e27e90-706f-40c1-97cf-2d60a60b0d83",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sHealth_Bar",
+    "name": "sHealthbar_Bar",
     "For3D": false,
     "HTile": false,
     "VTile": false,
