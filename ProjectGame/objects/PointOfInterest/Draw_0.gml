@@ -32,4 +32,11 @@ if(global.collided = true)
 	//draw_text(camxview + 700, camyview + 300, "Test");
 	inst1 = instance_create_depth(camxview + 700, camyview + 600, -10000, Obj_ClickBox0);
 	}
+	
+	//if(choice 0/1)
+	//go to line1_1 and end convo.
+	
+		//if(choice 2)
+	//go to line1_2 and end convo.
+
 }
