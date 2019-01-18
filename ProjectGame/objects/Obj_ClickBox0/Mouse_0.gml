@@ -2,6 +2,8 @@
 // You can write your code in this editor
 global.collided = false;
 global.pause = false;
+
+
 if(global.foodTarget <=550)
 {
 global.foodTarget = global.foodTarget + 50;
