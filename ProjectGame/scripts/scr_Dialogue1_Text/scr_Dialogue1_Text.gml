@@ -49,5 +49,4 @@ switch(argument0)
 		return line1[3];
 	default:
 		return "End";
-		
 }

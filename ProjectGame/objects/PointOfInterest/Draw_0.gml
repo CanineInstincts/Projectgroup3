@@ -11,25 +11,25 @@ if(global.collided = true)
 	
 	draw_set_font(fDialogue_Text);
 	draw_sprite(Convo_Container,0, camxview + 500, camyview + 800);
-	draw_sprite(Conve_Border,0, camxview + 500, camyview + 700);
+	draw_sprite(Conve_Border,0, camxview + 500, camyview + 900);
 	
-	
-	if(keyboard_check_pressed(vk_space))
+	if mouse_check_button_pressed(mb_left) && lineNo < 3
 	{
-		lineNo++;
+		lineNo =  lineNo + 1;
 	}
 	
-	scr_Write_Dialogue(lineNo, camxview + 500, camyview + 700);
-	draw_sprite(ClickBox0,0, camxview + 700, camyview + 500);
-	draw_text(camxview + 700, camyview + 500, "Test");
-	inst0 = instance_create_depth(camxview + 700, camyview + 300, -10000, Obj_ClickBox0);
+	scr_Write_Dialogue(lineNo, camxview + 500, camyview + 900);
+	//Dialogue inside the textbox.
 	
-
-	draw_sprite(ClickBox1,0, camxview + 700, camyview + 300);
-	draw_text(camxview + 700, camyview + 300, "Test");
-	inst0 = instance_create_depth(camxview + 700, camyview + 500, -10000, Obj_ClickBox0);
-
-
-	draw_text(camxview + 700, camyview + 300, "Test");
-
+	
+	if(lineNo = 3)
+	{
+	//scr_Write_Dialogue(choice1,camxview + 700, camyview + 500)
+	//draw_text(camxview + 700, camyview + 500, "Test");
+	inst0 = instance_create_depth(camxview + 700, camyview + 400, -10000, Obj_ClickBox0);
+	
+	//scr_Write_Dialogue(choice1,camxview + 700, camyview + 300)
+	//draw_text(camxview + 700, camyview + 300, "Test");
+	inst1 = instance_create_depth(camxview + 700, camyview + 600, -10000, Obj_ClickBox0);
+	}
 }

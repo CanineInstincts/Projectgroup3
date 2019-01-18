@@ -1,3 +1,3 @@
 global.pause = false;
 global.collided = false;
-lineNo = -1;
+lineNo = 0;
