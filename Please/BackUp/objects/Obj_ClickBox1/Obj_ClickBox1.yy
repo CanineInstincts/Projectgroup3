@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Obj_ClickBox1",
     "eventList": [
-        
+        {
+            "id": "a9a40e31-3a7f-4be5-8c43-40255ade3c9c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "8fe0e024-1043-4f65-a7f5-ff3cb248c995"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
