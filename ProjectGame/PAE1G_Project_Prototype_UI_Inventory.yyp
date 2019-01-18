@@ -375,6 +375,14 @@
             }
         },
         {
+            "Key": "b72262b4-c220-41a0-8dfb-31d9a0d8a0f9",
+            "Value": {
+                "id": "89d2c90b-be5a-473e-9602-8f44ba53409f",
+                "resourcePath": "objects\\oTextbox\\oTextbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c484d85e-828f-4a20-8913-9ef4d407e7b1",
             "Value": {
                 "id": "38431039-cfeb-4dee-a05d-26598b93ba28",
@@ -466,7 +474,7 @@
             "Key": "ec82b849-be35-4c44-b78f-a716114913b9",
             "Value": {
                 "id": "a46fa468-3158-4ced-9859-6a2624515f54",
-                "resourcePath": "sprites\\Conve_Border\\Conve_Border.yy",
+                "resourcePath": "sprites\\sTextbox\\sTextbox.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -476,14 +484,6 @@
                 "id": "6ca7abbd-cbf4-417e-a46e-312c995cb2d2",
                 "resourcePath": "views\\fc790f08-d63e-42f6-94c2-4180a9d1b1a3.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "ffc0b79a-d9a4-4121-a27a-0f56f563bce2",
-            "Value": {
-                "id": "371e2354-0764-4a76-b126-d078c46a7f99",
-                "resourcePath": "sprites\\Convo_Container\\Convo_Container.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
