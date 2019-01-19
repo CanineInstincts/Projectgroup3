@@ -2,5 +2,6 @@
 // You can write your code in this editor
 dialogue = 5;
 global.ChoiceMaking = false;
-instance_destroy(Obj_ClickBox0);
-instance_destroy(Obj_ClickBox1);
+instance_destroy(oFE_ClickBox_A);
+instance_destroy(oFE_ClickBox_B);
+instance_destroy(oFE_ClickBox_C);

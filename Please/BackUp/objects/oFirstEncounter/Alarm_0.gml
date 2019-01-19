@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-global.collided = true;
-global.pause    = true;
+
+cancollide = true;
