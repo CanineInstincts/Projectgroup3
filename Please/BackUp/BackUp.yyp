@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "006e4351-d94a-48a1-92f3-4d0361b4d42d",
+            "Value": {
+                "id": "79d6907c-26c7-4922-a5f3-a2c120ab10d2",
+                "resourcePath": "objects\\oIntro\\oIntro.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "00b3e2ed-e4f0-4c92-b389-b923eff1efa6",
             "Value": {
                 "id": "8a4d1b03-0a75-45b9-b673-c2b96c34161b",
@@ -559,11 +567,27 @@
             }
         },
         {
+            "Key": "824bbcae-3df6-4bd9-8501-175e06d98379",
+            "Value": {
+                "id": "e7deddc8-eb74-4c7d-b111-b3b7453d8a2b",
+                "resourcePath": "sprites\\sIntro\\sIntro.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "83100d0d-c5f3-48f4-9e3d-0076f7c574c6",
             "Value": {
                 "id": "c476fbbf-1c7a-47bf-b2f4-62faf8f948f4",
                 "resourcePath": "views\\83100d0d-c5f3-48f4-9e3d-0076f7c574c6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "850895f9-f7a6-491a-98c3-fdc5773faaae",
+            "Value": {
+                "id": "8c4b22ce-49fe-4d17-95ec-b113a1214539",
+                "resourcePath": "rooms\\IntroCinematic\\IntroCinematic.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
