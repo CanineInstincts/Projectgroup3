@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "34499d78-dca5-4a82-a2ef-bb19e89f194b",
+            "Value": {
+                "id": "e6d465ee-1e2d-4bb7-adac-673f1f571452",
+                "resourcePath": "sprites\\sPlayer_Right\\sPlayer_Right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "37cead1c-5945-4b7f-b223-c714fd2b5033",
             "Value": {
                 "id": "c53f50fa-8d81-41e8-88d2-e2a08102397c",
@@ -348,6 +356,22 @@
                 "id": "d0f0920e-8ee2-4a0b-a32a-392c1fd08087",
                 "resourcePath": "objects\\o_4E_ClickBox_B3\\o_4E_ClickBox_B3.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5cc4e173-5c25-469b-9125-a6529b17cdb3",
+            "Value": {
+                "id": "0b8bd5a7-5328-4a6b-b57c-c881e0606b9d",
+                "resourcePath": "sprites\\sPlayer_Left\\sPlayer_Left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5f31ca27-1f87-4375-85bc-d699daa593cf",
+            "Value": {
+                "id": "5ed74999-ad51-4701-8554-c45b4ad76008",
+                "resourcePath": "sprites\\sPlayer_Up\\sPlayer_Up.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -476,6 +500,14 @@
                 "id": "e28deb64-b8b4-44f9-ba8a-5edee80e772c",
                 "resourcePath": "sprites\\sSpiritual_King\\sSpiritual_King.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "78e8961d-2103-4d91-9268-ce69838c55be",
+            "Value": {
+                "id": "17162b36-d676-4997-9bbb-7bc494e8a828",
+                "resourcePath": "views\\78e8961d-2103-4d91-9268-ce69838c55be.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -906,7 +938,7 @@
             "Key": "ec184600-f7bb-462b-b763-c3639a7eb8db",
             "Value": {
                 "id": "d30c084a-36a6-4f53-bdc4-4a67f6a1c715",
-                "resourcePath": "sprites\\sPlayer\\sPlayer.yy",
+                "resourcePath": "sprites\\sPlayer_Down\\sPlayer_Down.yy",
                 "resourceType": "GMSprite"
             }
         },
