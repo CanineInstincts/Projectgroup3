@@ -2,6 +2,7 @@
 // You can write your code in this editor
 draw_self();
 
+
 if(collided == true && global.ChoiceMaking == false && global.pause == true)
 {
 	instance_create_depth(camxview + 440, camyview + 800, 0, oTextbox);
@@ -11,11 +12,11 @@ if(collided == true && global.ChoiceMaking == false && global.pause == true)
 			global.dialogue3++;
 	}
 	draw_set_font(fDialogue_Text);
-	draw_text_ext(camxview + 500, camyview + 820, string(scr_Dialogue3_Text(dialogue1)), 20, 900);
+	draw_text_ext(camxview + 500, camyview + 820, string(scr_Dialogue3_Text(dialogue3)), 20, 900);
 	
 }
 
-if(global.Distance == true && global.ChoiceMaking == false && global.pause == true)
+if(Distance == true && global.ChoiceMaking == false && global.pause == true)
 {
 	instance_create_depth(camxview + 440, camyview + 800, 0, oTextbox);
 	
@@ -24,6 +25,6 @@ if(global.Distance == true && global.ChoiceMaking == false && global.pause == tr
 			global.dialogue3++;
 	}
 	draw_set_font(fDialogue_Text);
-	draw_text_ext(camxview + 500, camyview + 820, string(scr_Dialogue3_Text(dialogue1)), 20, 900);
+	draw_text_ext(camxview + 500, camyview + 820, string(scr_Dialogue3_Text(dialogue3)), 20, 900);
 	
 }
