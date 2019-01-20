@@ -20,10 +20,19 @@ if(collided = true && global.ChoiceMaking = false && global.pause == true)
 	
 			inst2 = instance_create_depth(camxview + 700, camyview + 600, -10000, oFE_ClickBox_C);
 		}
+		if(dialogue1 = 18 && mouse_check_button_pressed(mb_left))
+		{
+			dialogue1 = 10;	
+		}
+		if(dialogue1 = 16 && mouse_check_button_pressed(mb_left))
+		{
+			dialogue1 = 19;	
+		}
 		else
 		{
 			dialogue1++;
 		}
+		
 	}
 	
 	draw_set_font(fDialogue_Text);

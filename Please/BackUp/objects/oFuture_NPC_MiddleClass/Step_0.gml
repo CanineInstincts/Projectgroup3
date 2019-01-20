@@ -12,3 +12,12 @@ if(cancollide == false && collided == true && keyboard_check_pressed(ord("Q")))
 	global.pause = false;	
 	alarm[0] = 2*room_speed;
 }
+
+/*if(x = 2400 &&  y <= 2000)
+{
+	move_towards_point(2400, 2400, 1);
+}
+if(x = 2400 && y >= 2400)
+{
+	move_towards_point(2400, 2000, 1);
+}*/	

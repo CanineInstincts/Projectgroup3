@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "34540ba3-8e69-4eef-b189-716a4ec937bf",
+            "Value": {
+                "id": "b31985f7-2064-4627-9f1d-9ae93c1f555a",
+                "resourcePath": "views\\34540ba3-8e69-4eef-b189-716a4ec937bf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "37cead1c-5945-4b7f-b223-c714fd2b5033",
             "Value": {
                 "id": "c53f50fa-8d81-41e8-88d2-e2a08102397c",
@@ -420,6 +428,14 @@
                 "id": "c476fbbf-1c7a-47bf-b2f4-62faf8f948f4",
                 "resourcePath": "views\\83100d0d-c5f3-48f4-9e3d-0076f7c574c6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "85277e27-a613-4c7c-a262-59f7b5b7a5af",
+            "Value": {
+                "id": "b99e6afe-b410-4ee0-9e92-43c57e459039",
+                "resourcePath": "objects\\oSE_ClickBox_B3\\oSE_ClickBox_B3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -719,6 +735,14 @@
             }
         },
         {
+            "Key": "ea3c5f91-86c8-43ed-a9bf-c60189cc6e1c",
+            "Value": {
+                "id": "cb831f7d-f444-43b6-98ff-c7cf9d70022a",
+                "resourcePath": "objects\\oSE_ClickBox_A3\\oSE_ClickBox_A3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eb008e1a-6514-40cb-bc71-c9da8fe8b62b",
             "Value": {
                 "id": "5190e5d4-300b-48c1-8b2d-c4bc8a5a29c3",
@@ -755,6 +779,14 @@
             "Value": {
                 "id": "df6b17b2-3e00-4eb5-8c41-6c5ebb7aff38",
                 "resourcePath": "objects\\oFirstEncounter\\oFirstEncounter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ee8d0a82-b660-41aa-ae78-5ab9421b9617",
+            "Value": {
+                "id": "49d4d41a-77e2-4198-806c-b53b8e497df7",
+                "resourcePath": "objects\\oSE_ClickBox_C3\\oSE_ClickBox_C3.yy",
                 "resourceType": "GMObject"
             }
         },

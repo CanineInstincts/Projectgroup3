@@ -14,6 +14,8 @@ choice1[2] = "C. I do not understand, I did not say anything offensive."
 //Response A&B 
 line1_1[0] = "Alien: AGAIN?! Are you serious? Listen if you were not talking like that to me I would have been glad to help you out but now you can piss off, goodbye."
 
+line1_1[1] = "Alien: You Again!?, What do you want?"
+line1_1[2] = "You: I was wondering what I did that offended you."
 
 
 //Response C
@@ -23,9 +25,11 @@ line1_2[2] = "You: No, I have no idea why."
 line1_2[3] = "Alien: *sigh* Okay, I will explain it to you, Do not use contractions when talking to people from my tribe."
 line1_2[4] = "Alien: It is seen as offensive and it will get you in a lot of situations like this one."
 line1_2[5] = "You: I understand, My deepest apologies, I didn.. did not know contractions were viewed like that."
-line1_2[6] = "Alien: *smiles* Apologies accepted! Now about the market; Head east from here and you will eventually find the market."
+line1_2[6] = "Alien: *smiles* Apologies accepted! Now about the market; Head west from here and you will eventually find the market."
+
 //*Obtain knowledge card/points*
 //*Complete Encounter
+finish[0] = "Alien: Head East."
 
 /* Ignore this
 Dialogue1[0,0] = line1[0];	Dialogue1[0,1] = line1[3];
@@ -82,15 +86,15 @@ switch(argument0)
 		return line1_2[6];
 		break;
 	case 17:
-		return choice1[0];
+		return line1_1[1];
 		break;
 	case 18:
-		return choice1[1];
-		break;
+		return line1_1[2];
+		break; 
 	case 19:
-		return choice1[2];
+		return finish[0];
 		break;
-	default:
+  	default:
 		return "End";
 		break;
 }
