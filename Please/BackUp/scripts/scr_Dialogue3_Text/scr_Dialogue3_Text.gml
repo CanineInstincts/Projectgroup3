@@ -1,7 +1,7 @@
 //*Can only start interaction when there is one tile in between alien and Player*
 //Response to too close
 line1_1[0] = "Alien: YO! BACK OFF!"
-line1_2[1] = ""
+line1_1[1] = "."
 //Player gets pushed back one tile.
 
 
