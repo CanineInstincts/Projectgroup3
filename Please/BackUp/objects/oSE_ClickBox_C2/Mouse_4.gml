@@ -1,8 +1,7 @@
-/// @description Pick Ulut
-global.dialogue2 = 13;
+/// @description Insert description here
+// You can write your code in this editor
+global.dialogue2 = 4;
 global.ChoiceMaking = false;
-pick2 = 10;
-instance_destroy(oSE_ClickBox_A2);
-instance_destroy(oSE_ClickBox_B2);
-instance_destroy(oSE_ClickBox_C2);
-instance_destroy(oSE_ClickBox_D2);
+instance_destroy(oSE_ClickBox_A1);
+instance_destroy(oSE_ClickBox_B1);
+instance_destroy(oSE_ClickBox_C1);

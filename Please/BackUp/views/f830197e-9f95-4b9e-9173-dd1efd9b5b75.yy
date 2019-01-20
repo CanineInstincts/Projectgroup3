@@ -6,8 +6,7 @@
     "children": [
         "aa3485e3-4583-4496-908d-7c8d6dedd50e",
         "cfb2d965-770b-4cd4-9589-195ce986e330",
-        "b00301d6-da36-4d84-859b-757c6eec07bc",
-        "34540ba3-8e69-4eef-b189-716a4ec937bf"
+        "b00301d6-da36-4d84-859b-757c6eec07bc"
     ],
     "filterType": "GMObject",
     "folderName": "Second Encounter",

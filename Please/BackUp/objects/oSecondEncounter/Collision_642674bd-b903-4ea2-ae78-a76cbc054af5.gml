@@ -5,6 +5,13 @@ if(cancollide == true) // if false ignores collision every frame and makes colli
 	collided = true;
 	global.pause   = true;
 	cancollide = false;
-
+	if(global.contractionK == false)
+	{
+		dialogue2 = 4;	
+	}
+	else
+	{
+		dialogue2 = 18;	
+	}
 }	
 
