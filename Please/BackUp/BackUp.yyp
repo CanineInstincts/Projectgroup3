@@ -719,6 +719,14 @@
             }
         },
         {
+            "Key": "ac303e28-8a33-4ea2-b4ca-bd802f3c1f53",
+            "Value": {
+                "id": "a0f38db2-88e4-4593-a1cc-c1d6cedb16fd",
+                "resourcePath": "sprites\\sQuit\\sQuit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ac3afa4a-c73a-4ebb-983c-ff990a4c1184",
             "Value": {
                 "id": "32cd7087-9a98-462c-9723-5489159c4801",
@@ -836,6 +844,14 @@
                 "id": "5c27ce3e-eeab-4653-867d-a4a35e9c08a5",
                 "resourcePath": "sprites\\sSpiritual_HighClass\\sSpiritual_HighClass.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c9f6a7c9-180d-4d85-bee4-574a5d922690",
+            "Value": {
+                "id": "031431c6-0043-4314-a79c-12e562efb344",
+                "resourcePath": "objects\\OBackGroundStartQuit\\OBackGroundStartQuit.yy",
+                "resourceType": "GMObject"
             }
         },
         {

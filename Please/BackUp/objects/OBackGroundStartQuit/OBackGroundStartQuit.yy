@@ -1,19 +1,10 @@
 {
-    "id": "3d2d2dbf-4287-4b3a-a079-29bc0e246bcc",
+    "id": "c9f6a7c9-180d-4d85-bee4-574a5d922690",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oEndGame",
+    "name": "OBackGroundStartQuit",
     "eventList": [
-        {
-            "id": "53be3660-5b07-47a7-a641-3add0e849483",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 6,
-            "m_owner": "3d2d2dbf-4287-4b3a-a079-29bc0e246bcc"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ac303e28-8a33-4ea2-b4ca-bd802f3c1f53",
+    "spriteId": "9c83fb91-92dc-4a3f-8963-0b9f0dc9455d",
     "visible": true
 }
