@@ -62,43 +62,43 @@ switch(argument0)
 	case 5:// A or C was chosen
 		return line1_2[0];
 		break;
-	case 6:// B was Chosen
+	case 7:// B was Chosen
 		return line1_1[0];
 		break;
-	case 7://choices
+	case 8://choices
 		return choice2[0];
 		break;
-	case 8:
+	case 9:
 		return choice2[1];
 		break;
-	case 9:
+	case 10:
 		return choice2[2];
 		break;
-	case 10:
+	case 11:
 		return choice2[3];
 		break;
-	case 11:
+	case 13:
 		return line2[0];
 		break;
-	case 12:
+	case 14:
 		return line2[1];
 		break;
-	case 13:
+	case 15:
 		return line2_2[0];
 		break;
-	case 14:
+	case 16:
 		return line2_2[1];
 		break;
-	case 15:
+	case 17:
 		return line2_2[2];
 		break;
-	case 16:
+	case 18:
 		return line2_1[0];
 		break;
-	case 17:
+	case 19:
 		return line2_1[1];
 		break;
-	case 18:
+	case 20:
 		return line1_2[2];
 		break;
 	default:

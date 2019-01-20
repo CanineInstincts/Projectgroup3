@@ -3,7 +3,7 @@
 //*After walking up to the alien and pressing the interact button*
 line1[0] = "You: Hi there."
 line1[1] = "Alien: Hello."
-line1[2] = "You: My name is (insert name). I’m looking for the market, can you help me?"
+line1[2] = "You: My name is William. I’m looking for the market, can you help me?"
 line1[3] = "Alien: Why are you talking like that to me?!"
 
 //Choice:
@@ -13,7 +13,8 @@ choice1[2] = "C. I do not understand, I did not say anything offensive."
 
 //Response A&B 
 line1_1[0] = "Alien: AGAIN?! Are you serious? Listen if you were not talking like that to me I would have been glad to help you out but now you can piss off, goodbye."
-//*Failed encounter*
+
+
 
 //Response C
 line1_2[0] = "Alien: Wait… "
@@ -47,37 +48,46 @@ switch(argument0)
 	case 3:
 		return line1[3];
 		break;
-	case 4:// A or B was chosen
-		return line1_1[0];
-		break;
-	case 5:// C was Chosen
-		return line1_2[0];
-		break;
-	case 6:
-		return line1_2[1];
-		break;
-	case 7:
-		return line1_2[2];
-		break;
-	case 8:
-		return line1_2[3];
-		break;
-	case 9:
-		return line1_2[4];
-		break;
-	case 10:
-		return line1_2[5];
-		break;
-	case 11:
-		return line1_2[6];
-		break;
-	case 12:
+	case 4:
 		return choice1[0];
 		break;
-	case 13:
+	case 5:
 		return choice1[1];
 		break;
+	case 6:
+		return choice1[2];
+		break;
+	case 8:// A or B was chosen
+		return line1_1[0];
+		break;
+	case 10:// C was Chosen
+		return line1_2[0];
+		break;
+	case 11:
+		return line1_2[1];
+		break;
+	case 12:
+		return line1_2[2];
+		break;
+	case 13:
+		return line1_2[3];
+		break;
 	case 14:
+		return line1_2[4];
+		break;
+	case 15:
+		return line1_2[5];
+		break;
+	case 16:
+		return line1_2[6];
+		break;
+	case 17:
+		return choice1[0];
+		break;
+	case 18:
+		return choice1[1];
+		break;
+	case 19:
 		return choice1[2];
 		break;
 	default:

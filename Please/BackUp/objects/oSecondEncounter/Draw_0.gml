@@ -10,16 +10,16 @@ if(collided == true && global.ChoiceMaking == false && global.pause == true)
 {
 	instance_create_depth(camxview + 440, camyview + 800, 0, oTextbox);
 	
-	if (mouse_check_button_pressed(mb_left) /*&& global.dialogue2 != (1 || 2 || 3 || 4)*/)
+	if (mouse_check_button_pressed(mb_left))
 	{
-		if(global.dialogue2 = 0)
+		if(global.dialogue2 == 0)
 		{	
 			global.ChoiceMaking = true;
-			inst0 = instance_create_depth(camxview + 700, camyview + 200, -10000, oSE_ClickBox_A);
+			inst0 = instance_create_depth(camxview + 700, camyview + 200, -10000, oSE_ClickBox_A1);
 		
-			inst1 = instance_create_depth(camxview + 700, camyview + 400, -10000, oSE_ClickBox_B);
+			inst1 = instance_create_depth(camxview + 700, camyview + 400, -10000, oSE_ClickBox_B1);
 	
-			inst2 = instance_create_depth(camxview + 700, camyview + 600, -10000, oSE_ClickBox_C);
+			inst2 = instance_create_depth(camxview + 700, camyview + 600, -10000, oSE_ClickBox_C1);
 		}
 		else
 		{

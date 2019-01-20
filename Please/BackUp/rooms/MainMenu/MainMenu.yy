@@ -55,7 +55,7 @@
             "grid_y": 32,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
-            "hspeed": 4,
+            "hspeed": 1,
             "htiled": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,

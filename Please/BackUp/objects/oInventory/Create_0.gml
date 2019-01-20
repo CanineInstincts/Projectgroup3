@@ -9,11 +9,16 @@ for(i = 0; i < global.maxItems; i++)
 	global.inventory[i] = -1;
 }
 
-//fill inventory with all the available items images
-//Just for testing
-for(i = 0; i < 23; i++)
-{
-	global.inventory[i] = i;
-}
+/*Starting items
+2 = GoldOre
+6 = Phone
+7 = MetalScraps
+11= RoseSeed
+12= TullipBulb
+*/
 
-
+scr_Add_Item(2);
+scr_Add_Item(6);
+scr_Add_Item(7);
+scr_Add_Item(11);
+scr_Add_Item(12);

@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+image_xscale = 2;
+image_yscale = 2;
 cancollide = true; //set to false to disable collide event
 collided = false;
 global.pause = false;
