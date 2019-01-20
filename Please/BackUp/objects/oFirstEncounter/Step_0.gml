@@ -17,5 +17,4 @@ if(dialogue1 = 8 || dialogue1 = 19)
 	alarm[0] = 5 * room_speed;
 	instance_destroy(oTextbox);
 	}
-
 }
