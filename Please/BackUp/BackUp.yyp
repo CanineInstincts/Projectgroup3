@@ -103,6 +103,30 @@
             }
         },
         {
+            "Key": "0f731d7e-4b09-4f9a-8188-24b873c66e39",
+            "Value": {
+                "id": "1bd4cad0-d8bc-46f3-9cf8-128a43566f71",
+                "resourcePath": "views\\0f731d7e-4b09-4f9a-8188-24b873c66e39.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0f8bc19e-e7af-4efe-ae51-9af027025cc1",
+            "Value": {
+                "id": "b6427ecf-72c6-4ec9-ac8f-851e1031ea81",
+                "resourcePath": "objects\\o_4E_ClickBox_C4\\o_4E_ClickBox_C4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "114d4607-8398-484d-8231-a2ec1aa823d5",
+            "Value": {
+                "id": "ecc67bca-cecf-4d83-a1dd-422abb93c331",
+                "resourcePath": "objects\\o_4E_ClickBox_A1\\o_4E_ClickBox_A1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "14e9c310-7972-4dff-b688-45fe9c62f864",
             "Value": {
                 "id": "32ac2cde-8b19-401d-9534-21c4154688fe",
@@ -116,6 +140,22 @@
                 "id": "f304fd00-08fc-40cc-9a41-26d5d968cbea",
                 "resourcePath": "views\\17f59b5a-1719-4e75-b07a-b2d7bafeddfb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "182f590d-4bee-4d5a-b367-1e3eeeaf6a72",
+            "Value": {
+                "id": "0b0e91e6-365d-401b-8418-23d9abb3c051",
+                "resourcePath": "objects\\o_4E_ClickBox_B1\\o_4E_ClickBox_B1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "193bdf2d-90c7-4a8c-be4b-1a5193c49e83",
+            "Value": {
+                "id": "77adc921-fb22-4879-8e48-b0aa9acf1f7a",
+                "resourcePath": "objects\\o_4E_ClickBox_C2\\o_4E_ClickBox_C2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -215,6 +255,14 @@
             }
         },
         {
+            "Key": "2a4502ea-68f6-4012-a5d4-0da7fb0354fc",
+            "Value": {
+                "id": "a1ffbdf9-f487-448d-935e-a1b3b0df32d8",
+                "resourcePath": "objects\\o_4E_ClickBox_D4\\o_4E_ClickBox_D4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2b58850f-631f-422c-bea4-bca4d9cc669a",
             "Value": {
                 "id": "0718d6f3-90c8-4ddd-9088-056d7cde12ff",
@@ -263,6 +311,14 @@
             }
         },
         {
+            "Key": "440b2352-4b49-470d-91fe-0b7611d4cec2",
+            "Value": {
+                "id": "de3bed05-3a40-4a21-aaf9-7730abf46f6f",
+                "resourcePath": "objects\\o_4E_ClickBox_B4\\o_4E_ClickBox_B4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "47f07bb1-9478-4c78-9700-270936aebf47",
             "Value": {
                 "id": "bb179a80-68bd-4570-b4e3-c57183f649d4",
@@ -283,6 +339,14 @@
             "Value": {
                 "id": "3257122b-84e1-4c62-852f-f1eb2f96353e",
                 "resourcePath": "objects\\oPlayer\\oPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "56aed323-c9e4-4e5d-9cb0-c1682e1059cf",
+            "Value": {
+                "id": "d0f0920e-8ee2-4a0b-a32a-392c1fd08087",
+                "resourcePath": "objects\\o_4E_ClickBox_B3\\o_4E_ClickBox_B3.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -367,6 +431,14 @@
             }
         },
         {
+            "Key": "715b2d83-8fc4-45a0-9199-1a888ca6cf86",
+            "Value": {
+                "id": "3f90ca9c-602a-4a6f-9e16-9c5df7a115de",
+                "resourcePath": "objects\\o_4E_ClickBox_C3\\o_4E_ClickBox_C3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "71b90a33-6bb0-4a8b-9343-fba4ae8228aa",
             "Value": {
                 "id": "1a7ed56e-d326-498c-879a-8f95c5ea705d",
@@ -388,6 +460,14 @@
                 "id": "4c25cda6-76a1-4a29-9621-1252ec1bf766",
                 "resourcePath": "views\\766b9fbb-d062-490d-a03f-7459f887fd7d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "76cf2016-1464-4f66-81f5-d162928fd814",
+            "Value": {
+                "id": "1a28392d-cdb8-4fd2-9ff8-9903c6be09d1",
+                "resourcePath": "objects\\o_4E_ClickBox_C1\\o_4E_ClickBox_C1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -436,6 +516,14 @@
                 "id": "5e16d53d-b3c1-4ab8-821d-3efc1446cfc4",
                 "resourcePath": "scripts\\scr_Dialogue1_Text\\scr_Dialogue1_Text.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "899ff1ce-d6ef-4cd7-b51a-ec8310e63435",
+            "Value": {
+                "id": "95732a8e-9c21-48c6-9c9c-5410892f94ba",
+                "resourcePath": "objects\\o_4E_ClickBox_A4\\o_4E_ClickBox_A4.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -511,6 +599,14 @@
             }
         },
         {
+            "Key": "a4b1a115-70c9-4ae3-87f1-17b2d95b78f7",
+            "Value": {
+                "id": "b087e4b0-7d63-4a1d-88b6-4413c30bf027",
+                "resourcePath": "objects\\o_4E_ClickBox_A3\\o_4E_ClickBox_A3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a50af1fe-3309-4621-8f9d-806d33b8be84",
             "Value": {
                 "id": "62334541-d27b-402c-abe0-9512dfa4e1e4",
@@ -531,6 +627,14 @@
             "Value": {
                 "id": "e4bb1d8e-b7b0-4ab3-ba65-5ea210e05ac2",
                 "resourcePath": "objects\\oShip\\oShip.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ac3afa4a-c73a-4ebb-983c-ff990a4c1184",
+            "Value": {
+                "id": "32cd7087-9a98-462c-9723-5489159c4801",
+                "resourcePath": "objects\\o_4E_ClickBox_D2\\o_4E_ClickBox_D2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -663,6 +767,14 @@
             }
         },
         {
+            "Key": "cce31b39-96ed-4d03-8da7-2a0658fd39c9",
+            "Value": {
+                "id": "f5d059ed-88bf-476c-aa2c-cdc804e1d351",
+                "resourcePath": "objects\\oFourthEncounter\\oFourthEncounter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ce44fb75-8b91-4a72-bfe2-38b46477b4fd",
             "Value": {
                 "id": "12c2e5d9-cd05-42d5-a7a7-eb394070779f",
@@ -751,6 +863,14 @@
             }
         },
         {
+            "Key": "e2333172-a11d-4701-b16b-3d44ce60e1fd",
+            "Value": {
+                "id": "75b7dad2-417b-4b0a-8d1c-4b10734a9d79",
+                "resourcePath": "objects\\o_4E_ClickBox_D3\\o_4E_ClickBox_D3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e9c36235-2cad-42e6-bef1-e310fd5f0ad1",
             "Value": {
                 "id": "e72f07c6-c93c-49df-8f02-ff95beb79869",
@@ -764,6 +884,14 @@
                 "id": "5190e5d4-300b-48c1-8b2d-c4bc8a5a29c3",
                 "resourcePath": "views\\eb008e1a-6514-40cb-bc71-c9da8fe8b62b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eb7090e7-a0e6-44df-abe8-4512edfacdb5",
+            "Value": {
+                "id": "e1b9ad05-9c12-4eff-aafb-ae7293658f9f",
+                "resourcePath": "objects\\o_4E_ClickBox_A2\\o_4E_ClickBox_A2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -828,6 +956,14 @@
                 "id": "2d67a96f-83fa-4c4b-9783-94d237f44a38",
                 "resourcePath": "scripts\\scr_Write_Dialogue\\scr_Write_Dialogue.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f6f0a35a-b1c8-414c-8351-77e9c7b421a2",
+            "Value": {
+                "id": "be75aaee-a98f-40ff-ab7b-d828d001b61c",
+                "resourcePath": "objects\\o_4E_ClickBox_B2\\o_4E_ClickBox_B2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
