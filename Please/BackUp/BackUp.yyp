@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "063b5f88-119d-46df-8a9f-3fd1a8d05e14",
+            "Value": {
+                "id": "b4b27921-4f16-4263-8414-da40bb2988cd",
+                "resourcePath": "objects\\oSE_ClickBox_A3\\oSE_ClickBox_A3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "08b0291a-a665-453c-b6db-7fd6d918c0b1",
             "Value": {
                 "id": "6002f9ca-9544-475c-bbfc-65542fdcfa26",
@@ -180,6 +188,14 @@
                 "id": "7c004ad6-5f13-46df-9a3b-ec72db05905e",
                 "resourcePath": "views\\1f4e796e-83d8-4815-8ac2-541bab1154d1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "20545dd0-06b6-44ed-8154-6263f1e73e33",
+            "Value": {
+                "id": "0ca51450-ce92-427b-b5a6-a72267ab4309",
+                "resourcePath": "objects\\oSE_ClickBox_B3\\oSE_ClickBox_B3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -316,6 +332,14 @@
                 "id": "c53f50fa-8d81-41e8-88d2-e2a08102397c",
                 "resourcePath": "sprites\\sFoodbar_Bar\\sFoodbar_Bar.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3baffb0a-ccc5-4492-884f-a8fa09afe4ce",
+            "Value": {
+                "id": "dfffd19f-431c-4433-bdc8-0ad7a2956a66",
+                "resourcePath": "views\\3baffb0a-ccc5-4492-884f-a8fa09afe4ce.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -699,6 +723,14 @@
             "Value": {
                 "id": "62334541-d27b-402c-abe0-9512dfa4e1e4",
                 "resourcePath": "objects\\oSE_ClickBox_A1\\oSE_ClickBox_A1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a8dce4be-565c-4de2-b686-ca6982cf2bdf",
+            "Value": {
+                "id": "279aa436-eb31-4112-8899-e27e85f1c2b1",
+                "resourcePath": "objects\\oSE_ClickBox_C3\\oSE_ClickBox_C3.yy",
                 "resourceType": "GMObject"
             }
         },

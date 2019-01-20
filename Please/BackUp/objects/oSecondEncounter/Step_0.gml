@@ -16,6 +16,15 @@ if(global.dialogue2 == 5 || global.dialogue2 == 17 || global.dialogue2 = 20 || g
 			global.dialogue = 20;	
 		//	}	
 		}
+		if(global.dialogue2 == 19)
+		{
+			if(pick3 = (11 || 12) )
+			{
+				scr_Remove_Item(pick3);	
+				scr_Add_Item(pick2);
+			}
+			global.dialogue2 = 28;
+		}
 
 		collided = false;
 		global.pause = false;	
@@ -25,12 +34,3 @@ if(global.dialogue2 == 5 || global.dialogue2 == 17 || global.dialogue2 = 20 || g
 	}
 }
 
-if(global.dialogue2 == 19)
-		{
-			if(pick3 = (11 || 12) )
-			{
-				scr_Remove_Item(pick3);	
-				scr_Add_Item(pick2);
-			}
-			global.dialogue2 = 28;
-		}

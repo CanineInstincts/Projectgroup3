@@ -124,7 +124,7 @@ switch(argument0)
 		return choice3[1];
 		break;
 	case 27:
-		return choice3[1];
+		return choice3[2];
 		break;
 	case 28:
 		return finish[0];

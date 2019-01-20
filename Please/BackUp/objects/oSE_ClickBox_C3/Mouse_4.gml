@@ -1,5 +1,5 @@
-/// @description Pick organic
-global.dialogue2 = 19; // pick runphan berries
+/// @description Pay with tullip bulb
+global.dialogue2 = 19; 
 global.ChoiceMaking = false;
 pick3 = 11;
 instance_destroy(oSE_ClickBox_A3);

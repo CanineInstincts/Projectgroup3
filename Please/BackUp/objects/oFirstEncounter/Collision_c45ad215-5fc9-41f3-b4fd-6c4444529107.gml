@@ -5,4 +5,5 @@ if(cancollide == true)
 	collided = true;
 	global.pause    = true;
 	cancollide = false;
+	
 } 
