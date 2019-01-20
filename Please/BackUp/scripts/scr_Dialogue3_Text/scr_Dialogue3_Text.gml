@@ -18,3 +18,4 @@ line2_2[3] = "You: My apologies I thought that it was an acceptable distance."
 line2_2[4] = "Alien: No it’s not, it’s actually considered offensive around these parts."
 line2_2[5] = "Alien: Now what do you want from me?"
 line2_2[6] = "You: I would like to ask you some questions. Can you help me with that?"
+

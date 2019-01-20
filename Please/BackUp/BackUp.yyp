@@ -463,6 +463,14 @@
             }
         },
         {
+            "Key": "916e4408-6edd-49a7-9bd6-ecf20cf49478",
+            "Value": {
+                "id": "f1bf7471-7250-4fc6-b747-0df6e9efcd06",
+                "resourcePath": "objects\\oTE_ClickBox_A\\oTE_ClickBox_A.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9b7664d7-8b63-4558-a8ee-ce336adaea47",
             "Value": {
                 "id": "d792a550-816e-4841-85ee-b2a0c594b22d",
@@ -484,6 +492,14 @@
                 "id": "2cf82ac2-fbf7-46e8-8159-1f7d191309fe",
                 "resourcePath": "sprites\\sTextbox\\sTextbox.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9d33ef8d-f32f-4e94-bb2d-935ba74c07a2",
+            "Value": {
+                "id": "8f370dbe-d588-4b7b-9d99-3bb723374ec3",
+                "resourcePath": "views\\9d33ef8d-f32f-4e94-bb2d-935ba74c07a2.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -515,6 +531,14 @@
             "Value": {
                 "id": "e4bb1d8e-b7b0-4ab3-ba65-5ea210e05ac2",
                 "resourcePath": "objects\\oShip\\oShip.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "aed9f3cc-5864-4fdf-adfd-6198dc58f562",
+            "Value": {
+                "id": "83ca1094-564b-4ef9-9b3c-0d1a0d2dd24a",
+                "resourcePath": "objects\\oThirdEncounter\\oThirdEncounter.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -572,6 +596,14 @@
                 "id": "39b41c7e-cd7e-473c-85c1-b684d1a1f7f6",
                 "resourcePath": "sprites\\sHealthbar_Bar\\sHealthbar_Bar.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bac5c1a8-5a8d-4618-8af6-3114b19c2565",
+            "Value": {
+                "id": "40260a9e-ff3f-430b-928c-46aad5b06a41",
+                "resourcePath": "objects\\oTE_ClickBox_B\\oTE_ClickBox_B.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -684,6 +716,14 @@
                 "id": "a8101b54-963c-4c3a-8294-1e85813ecd2c",
                 "resourcePath": "views\\d33a0615-2235-4dd1-8a8b-1489828b758c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d6f13d78-1919-4858-bac3-d5edee6489fe",
+            "Value": {
+                "id": "a79ebb4b-e709-4ec6-8099-bf817661b1ef",
+                "resourcePath": "objects\\oTE_ClickBox_C\\oTE_ClickBox_C.yy",
+                "resourceType": "GMObject"
             }
         },
         {

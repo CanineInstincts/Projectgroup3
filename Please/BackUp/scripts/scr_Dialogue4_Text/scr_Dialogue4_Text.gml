@@ -60,3 +60,128 @@ choice4[3] = "D. item 4"
 
 line5[0] = "You: Thank you very much, Have a nice day!"
 line5[1] = "Alien: Thank you, you too!"
+
+
+switch(argument0)
+{
+	case 0:
+		return line1[0];
+		break;
+	case 1:
+		return line1[1];
+		break;
+	case 2:
+		return line1[2];
+		break;
+	case 3:
+		return line1[3];
+		break;
+	case 4:
+		return line1[4];
+		break;
+	case 5:
+		return choice1[0];
+		break;
+	case 6:
+		return choice1[1];
+		break;
+	case 7:
+		return choice1[2];
+		break;
+	case 8:
+		return line2[0];
+		break;
+	case 9:
+		return line2[1];
+		break;
+	case 10:
+		return line2[2];
+		break;
+	case 11:
+		return line2[3];
+		break;
+	case 12:
+		return line2[4];
+		break;
+	case 13:
+		return line2[5];
+		break;
+	case 14:
+		return choice2[0];
+		break;
+	case 15:
+		return choice2[1];
+		break;
+	case 16:
+		return choice2[2];
+		break;
+	case 17:
+		return choice2[3];
+		break;
+	case 18:
+		return line3[0];
+		break;
+	case 19:
+		return line3[1];
+		break;
+	case 20:
+		return line3[2];
+		break;
+	case 21:
+		return line3[3];
+		break;
+	case 22:
+		return line3[4];
+		break;
+	case 23:
+		return line3[5];
+		break;
+	case 24:
+		return choice3[0];
+		break;
+	case 25:
+		return choice3[1];
+		break;
+	case 26:
+		return choice3[2];
+		break;
+	case 27:
+		return choice3[3];
+		break;
+	case 28:
+		return line4[0];
+		break;
+	case 29:
+		return line4[1];
+		break;
+	case 30:
+		return line4[2];
+		break;
+	case 31:
+		return line4[3];
+		break;
+	case 32:
+		return line4[4];
+		break;
+	case 33:
+		return line4[5];
+		break;
+	case 34:
+		return choice4[0];
+		break;
+	case 35:
+		return choice4[1];
+		break;
+	case 36:
+		return choice4[2];
+		break;
+	case 37:
+		return choice4[3];
+		break;
+	case 38:
+		return line5[0];
+		break;
+	case 39:
+		return line5[1];
+		break;
+}
