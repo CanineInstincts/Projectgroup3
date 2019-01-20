@@ -1,7 +1,8 @@
-/// @description Insert description here
-// You can write your code in this editor
-global.dialogue2 = 4;
+/// @description Pick Runphan Berry
+global.dialogue2 = 13; // pick runphan berries
 global.ChoiceMaking = false;
-instance_destroy(oSE_ClickBox_A1);
-instance_destroy(oSE_ClickBox_B1);
-instance_destroy(oSE_ClickBox_C1);
+pick2 = 8;
+instance_destroy(oSE_ClickBox_A2);
+instance_destroy(oSE_ClickBox_B2);
+instance_destroy(oSE_ClickBox_C2);
+instance_destroy(oSE_ClickBox_D2);
