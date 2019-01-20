@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-
 draw_self();
 var inst0;
 var inst1;
