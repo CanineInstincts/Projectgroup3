@@ -27,13 +27,13 @@ if(collided = true && global.ChoiceMaking = false && global.pause == true)
 		if(dialogue4 == 13)
 		{
 			global.ChoiceMaking = true;
-			inst3 = instance_create_depth(camxview + 700, camyview + 200, -10000, o_4E_ClickBox_A2);
+			inst3 = instance_create_depth(camxview + 700, camyview + 100, -10000, o_4E_ClickBox_A2);
 
-			inst4 = instance_create_depth(camxview + 700, camyview + 400, -10000, o_4E_ClickBox_B2);
+			inst4 = instance_create_depth(camxview + 700, camyview + 250, -10000, o_4E_ClickBox_B2);
 
-			inst5 = instance_create_depth(camxview + 700, camyview + 600, -10000, o_4E_ClickBox_C2);
+			inst5 = instance_create_depth(camxview + 700, camyview + 400, -10000, o_4E_ClickBox_C2);
 
-			inst6 = instance_create_depth(camxview + 700, camyview + 800, -10000, o_4E_ClickBox_D2);
+			inst6 = instance_create_depth(camxview + 700, camyview + 550, -10000, o_4E_ClickBox_D2);
 		}
 		if(dialogue4 == 23)
 		{

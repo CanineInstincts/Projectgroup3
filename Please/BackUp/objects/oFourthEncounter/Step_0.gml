@@ -3,7 +3,7 @@ camyview = camera_get_view_y(view_camera[0]);
 
 if(dialogue4 = 39)
 {	
-	global.contractionK = true;	
+	
 	if(mouse_check_button_pressed(mb_left))
 	{
 	collided = false;

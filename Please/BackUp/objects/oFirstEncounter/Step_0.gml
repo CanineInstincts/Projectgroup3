@@ -10,8 +10,13 @@ if(dialogue1 = 8 || dialogue1 = 19)
 	{
 		global.contractionK = true;	
 	}
+	
 	if(mouse_check_button_pressed(mb_left))
 	{
+	if(dialogue1 = 8)
+	{
+		dialogue1 = 17;	
+	}
 	collided = false;
 	global.pause = false;
 	alarm[0] = 5 * room_speed;

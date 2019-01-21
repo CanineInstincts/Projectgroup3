@@ -16,6 +16,5 @@ camyview = camera_get_view_y(view_camera[0]);
 //pick item for second choice
 globalvar pick2;
 globalvar pick3;
-globalvar firstTry2;
-firstTry2 = true;
+
 
