@@ -3,7 +3,7 @@
 //*After walking up to the alien and pressing the interact button*
 line1[0] = "You: Hi there."
 line1[1] = "Alien: Hello."
-line1[2] = "You: My name is William. I’m looking for a food vendor, can you help me?"
+line1[2] = "You: My name is William. I’m looking for the market, can you help me?"
 line1[3] = "Alien: Why are you talking like that to me?!"
 
 //Choice:
@@ -25,11 +25,11 @@ line1_2[2] = "You: No, I have no idea why."
 line1_2[3] = "Alien: *sigh* Okay, I will explain it to you, Do not use contractions when talking to people from my tribe."
 line1_2[4] = "Alien: It is seen as offensive and it will get you in a lot of situations like this one."
 line1_2[5] = "You: I understand, My deepest apologies, I didn.. did not know contractions were viewed like that."
-line1_2[6] = "Alien: *smiles* Apologies accepted! Now about the market; Head West from here and you will eventually find a vendor."
+line1_2[6] = "Alien: *smiles* Apologies accepted! Now about the market; Head west from here and you will eventually find the market."
 
 //*Obtain knowledge card/points*
 //*Complete Encounter
-finish[0] = "Alien: Head West."
+finish[0] = "Alien: Head East."
 
 /* Ignore this
 Dialogue1[0,0] = line1[0];	Dialogue1[0,1] = line1[3];

@@ -1,5 +1,5 @@
 /// @description Pay with rose seed
-dialogue2 = 19;
+global.dialogue2 = 19;
 global.ChoiceMaking = false;
 pick3 = 12;
 instance_destroy(oSE_ClickBox_A3);

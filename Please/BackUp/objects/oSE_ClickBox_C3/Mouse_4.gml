@@ -1,5 +1,5 @@
 /// @description Pay with tullip bulb
-dialogue2 = 19; 
+global.dialogue2 = 19; 
 global.ChoiceMaking = false;
 pick3 = 11;
 instance_destroy(oSE_ClickBox_A3);
