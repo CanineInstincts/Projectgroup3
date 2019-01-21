@@ -1,5 +1,5 @@
 /// @description Pay with metal scraps
-global.dialogue2 = 16; // pay with metal
+dialogue2 = 16; // pay with metal
 global.ChoiceMaking = false;
 pick3 = 7;
 instance_destroy(oSE_ClickBox_A3);

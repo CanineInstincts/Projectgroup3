@@ -5,7 +5,7 @@ image_angle += 5; // rotating
 camxview = camera_get_view_x(view_camera[0]);
 camyview = camera_get_view_y(view_camera[0]);
 
-if(cancollide == false && collided == true && keyboard_check_pressed(ord("Q")))
+if(cancollide == false && collided == true && mouse_check_button_pressed(mb_left))
 {
 	collided = false;
 	instance_destroy(oTextbox);

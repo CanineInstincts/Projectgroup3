@@ -10,4 +10,4 @@ for(i = 0; i < global.maxItems; i++)
 	}
 }
 //return false if item is not in inventory
-return true;
+return false;

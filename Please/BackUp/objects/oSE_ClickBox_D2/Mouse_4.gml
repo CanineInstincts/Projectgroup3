@@ -1,5 +1,5 @@
 /// @description Pick Nosnu Steak
-global.dialogue2 = 13;
+dialogue2 = 13;
 global.ChoiceMaking = false;
 pick2 = 5;
 instance_destroy(oSE_ClickBox_A2);

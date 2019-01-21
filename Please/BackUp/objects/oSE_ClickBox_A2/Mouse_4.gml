@@ -1,5 +1,5 @@
 /// @description Pick Runphan Berry
-global.dialogue2 = 13; // pick runphan berries
+dialogue2 = 13; // pick runphan berries
 global.ChoiceMaking = false;
 pick2 = 8;
 instance_destroy(oSE_ClickBox_A2);

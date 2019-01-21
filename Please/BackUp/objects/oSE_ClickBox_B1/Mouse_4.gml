@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-global.dialogue2 = 6;
+dialogue2 = 6;
 global.ChoiceMaking = false;
 
 instance_destroy(oSE_ClickBox_A1);
