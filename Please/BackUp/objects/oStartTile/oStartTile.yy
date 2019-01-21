@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oStartTile",
     "eventList": [
-        
+        {
+            "id": "dc90cb39-ba70-4805-ba94-7216e607723e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "caa02d61-de88-483b-a4e5-881747f5389d"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
