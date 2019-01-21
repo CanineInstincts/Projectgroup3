@@ -6,7 +6,7 @@ cancollide = true;
 collided = false;
 global.pause = false;
 global.ChoiceMaking = false;
-
+depth = 1;
 globalvar dialogue4;
 dialogue4 = 0;
 camxview = camera_get_view_x(view_camera[0]);

@@ -56,7 +56,7 @@ if(global.pause == false)
 	}
 	if(keyboard_check(ord("Q")))
 	{
-		scr_Eat_and_Fill_FoodBar();
+		scr_Eat_and_Fill_Foodbar();
 	}
 	
 	if(global.healthTarget <= 0)

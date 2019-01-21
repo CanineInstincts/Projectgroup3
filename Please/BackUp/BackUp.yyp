@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "20eb241a-3adb-4087-b621-92463dcf0161",
+            "Value": {
+                "id": "9d95131b-e5c7-42ef-8c57-f35930d55485",
+                "resourcePath": "sprites\\sPlayer_Idle\\sPlayer_Idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21831a16-fce3-4d28-bcc4-ae728ae5f5c2",
             "Value": {
                 "id": "f31df0d2-1448-4054-a7ac-4fdbde694b4c",
@@ -735,6 +743,14 @@
             }
         },
         {
+            "Key": "8d038ab3-c592-48a2-925b-5cf753ea8319",
+            "Value": {
+                "id": "5d804af4-c1ec-4437-808e-a3500ced8741",
+                "resourcePath": "scripts\\scr_Search_Inv_For_Item\\scr_Search_Inv_For_Item.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8e4940ce-c772-4d51-9e84-5c8a9ee915af",
             "Value": {
                 "id": "e358a597-fe83-4055-ab8d-395812194ed0",
@@ -796,6 +812,14 @@
                 "id": "b765b072-6dfd-4091-baa8-f3377d8e34ad",
                 "resourcePath": "sprites\\sShipCrash\\sShipCrash.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "97d289e2-c52f-4f1f-9c0c-f884f9fe22cd",
+            "Value": {
+                "id": "3399a983-4645-4de4-99f4-fcd910b75313",
+                "resourcePath": "scripts\\scr_Eat_and_Fill_Foodbar\\scr_Eat_and_Fill_Foodbar.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1263,14 +1287,6 @@
             }
         },
         {
-            "Key": "efda36d7-ef4a-46c3-becb-afc030bf6dce",
-            "Value": {
-                "id": "4a69310d-fa3d-400c-9e3a-3aa14e659d6e",
-                "resourcePath": "scripts\\scr_Search_Inv_For_Time\\scr_Search_Inv_For_Time.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "f2172c85-6140-4b39-b073-a96ed2013591",
             "Value": {
                 "id": "a4f88b95-a22d-43ec-9886-40fce6e35dfe",
@@ -1354,7 +1370,6 @@
     "script_order": [
         "d1d68d82-3c89-4992-9c46-eb5e0b5a23cb",
         "0920d053-1507-4c66-bc43-73d46f4ee8c1",
-        "efda36d7-ef4a-46c3-becb-afc030bf6dce",
         "67387846-ea17-46f2-83fb-1f902ed97a16",
         "00476e16-3428-4059-b9d9-a79bcc00db60",
         "870634d6-619e-442d-aaeb-8a172c73b1ba",
@@ -1362,7 +1377,9 @@
         "b1913137-dd5b-4895-9147-faa06213d0bc",
         "754cde54-5ba1-4523-9ffe-c77b1d5b1a36",
         "f6e1b961-f3cc-47d5-8ef3-cb92b4391d6d",
-        "2b58850f-631f-422c-bea4-bca4d9cc669a"
+        "2b58850f-631f-422c-bea4-bca4d9cc669a",
+        "97d289e2-c52f-4f1f-9c0c-f884f9fe22cd",
+        "8d038ab3-c592-48a2-925b-5cf753ea8319"
     ],
     "tutorial": ""
 }
