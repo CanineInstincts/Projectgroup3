@@ -37,4 +37,11 @@ if(collided = true && global.ChoiceMaking = false && global.pause == true)
 	
 	draw_set_font(fDialogue_Text);
 	draw_text_ext(camxview + 500, camyview + 820, string(scr_Dialogue1_Text(dialogue1)), 20, 900);
+	
+	
+	
+
 }
+
+
+

@@ -64,7 +64,7 @@ switch(argument0)
 		return choice1[2];
 		break;
 	case 5:// A or C was chosen
-		return line1_1[0];
+		return line1_2[0];
 		break;
 	case 7:// B was Chosen
 		return line1_1[0];

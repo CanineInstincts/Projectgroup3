@@ -12,7 +12,7 @@ if(collided == true && global.ChoiceMaking == false && global.pause == true)
 	
 	if (mouse_check_button_pressed(mb_left))
 	{
-		if(global.dialogue2 == 0)
+		if(dialogue2 == 0)
 		{	
 			global.ChoiceMaking = true;
 			inst0 = instance_create_depth(camxview + 700, camyview + 200, -10000, oSE_ClickBox_A1);
@@ -20,9 +20,9 @@ if(collided == true && global.ChoiceMaking == false && global.pause == true)
 			inst1 = instance_create_depth(camxview + 700, camyview + 400, -10000, oSE_ClickBox_B1);
 	
 			inst2 = instance_create_depth(camxview + 700, camyview + 600, -10000, oSE_ClickBox_C1);
-			global.dialogue2++;
+			dialogue2++;
 		}
-		if(global.dialogue2 == 7)
+		if(dialogue2 == 7)
 		{
 			inst0 = instance_create_depth(camxview + 700, camyview + 100, -10000, oSE_ClickBox_A2);
 		
@@ -30,9 +30,9 @@ if(collided == true && global.ChoiceMaking == false && global.pause == true)
 	
 			inst2 = instance_create_depth(camxview + 700, camyview + 400, -10000, oSE_ClickBox_C2);
 			
-			inst3 = instance_create_depth(camxview + 700, camyview + 550, -10000, oSE_ClickBox_D2);
+			inst2 = instance_create_depth(camxview + 700, camyview + 550, -10000, oSE_ClickBox_D2);
 		}
-		if(global.dialogue2 == 15)
+		if(dialogue2 == 15)
 		{
 			inst0 = instance_create_depth(camxview + 700, camyview + 200, -10000, oSE_ClickBox_A3);
 		
@@ -42,12 +42,12 @@ if(collided == true && global.ChoiceMaking == false && global.pause == true)
 		}
 		else
 		{
-			global.dialogue2++;
+			dialogue2++;
 		}	
 	}
 	
 	draw_set_font(fDialogue_Text);
-	draw_text_ext(camxview + 500, camyview + 820, string(scr_Dialogue2_Text(global.dialogue2)), 20, 900);
+	draw_text_ext(camxview + 500, camyview + 820, string(scr_Dialogue2_Text(dialogue2)), 20, 900);
 }
 
 

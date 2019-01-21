@@ -1,5 +1,5 @@
 /// @description Pick Qugvein Pie
-global.dialogue2 = 13; //pick QugveinPie 
+dialogue2 = 13; //pick QugveinPie 
 global.ChoiceMaking = false;
 pick2 = 9;
 instance_destroy(oSE_ClickBox_A2);

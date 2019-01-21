@@ -9,7 +9,8 @@ global.pause = false;
 global.ChoiceMaking = false;
 
 //global.dialogue2;
-global.dialogue2 = 0;
+globalvar dialogue2;
+dialogue2 = 0;
 camxview = camera_get_view_x(view_camera[0]);
 camyview = camera_get_view_y(view_camera[0]);
 

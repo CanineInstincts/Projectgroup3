@@ -54,4 +54,12 @@ if(global.pause == false)
 		global.hungerRate = 0.001;	
 		}
 	}
+	if(keyboard_check(ord("Q")))
+	{
+		scr_Eat_and_Fill_FoodBar()
+	}
+}
+if(global.pause = true)
+{
+	image_speed = 0;	
 }
