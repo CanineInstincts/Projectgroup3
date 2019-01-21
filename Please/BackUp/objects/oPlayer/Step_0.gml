@@ -58,5 +58,10 @@ if(global.pause == false)
 	{
 		scr_Eat_and_Fill_FoodBar();
 	}
+	
+	if(global.healthTarget <= 0)
+	{
+		room_goto(0);
+	}
 }
 
