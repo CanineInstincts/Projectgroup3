@@ -30,7 +30,7 @@ if(collided == true && global.ChoiceMaking == false && global.pause == true)
 	
 			inst2 = instance_create_depth(camxview + 700, camyview + 400, -10000, oSE_ClickBox_C2);
 			
-			inst2 = instance_create_depth(camxview + 700, camyview + 550, -10000, oSE_ClickBox_D2);
+			inst3 = instance_create_depth(camxview + 700, camyview + 550, -10000, oSE_ClickBox_D2);
 		}
 		if(global.dialogue2 == 15)
 		{

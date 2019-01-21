@@ -5,6 +5,5 @@ if(cancollide == true) // if false ignores collision every frame and makes colli
 	collided = true;
 	global.pause   = true;
 	cancollide = false;
-
 }	
 
