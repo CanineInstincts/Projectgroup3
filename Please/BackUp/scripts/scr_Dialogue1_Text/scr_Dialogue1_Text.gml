@@ -25,7 +25,7 @@ line1_2[2] = "You: No, I have no idea why."
 line1_2[3] = "Alien: *sigh* Okay, I will explain it to you, Do not use contractions when talking to people from my tribe."
 line1_2[4] = "Alien: It is seen as offensive and it will get you in a lot of situations like this one."
 line1_2[5] = "You: I understand, My deepest apologies, I didn.. did not know contractions were viewed like that."
-line1_2[6] = "Alien: *smiles* Apologies accepted! Now about the market; Head west from here and you will eventually find the market."
+line1_2[6] = "Alien: *smiles* Apologies accepted! Now about the market; Head East from here and you will eventually find the market."
 
 //*Obtain knowledge card/points*
 //*Complete Encounter

@@ -1,8 +1,8 @@
 {
-    "id": "efda36d7-ef4a-46c3-becb-afc030bf6dce",
+    "id": "f900aef7-b3ef-46f1-aaee-110341363770",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "scr_Search_Inv_For_Time",
+    "name": "scr_Eat_and_Fill_FoodBar",
     "IsCompatibility": false,
     "IsDnD": false
 }
